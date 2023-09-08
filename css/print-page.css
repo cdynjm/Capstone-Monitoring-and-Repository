@@ -1,0 +1,19 @@
+#exclude-header, #exclude-cell, #exclude-btn
+{
+  display: none;
+  visibility: none;
+}
+.header-label img
+{
+  display: block;
+}
+@page
+{
+  size:A4;
+  margin: 40px;
+  font-size: 13px;
+}
+
+.view-document {
+  text-align: justify;
+}
